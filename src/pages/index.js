@@ -9,13 +9,13 @@ const Index = () => {
       <h2>How can we help</h2>
       <Card
         title="Web Design"
-        text="Sub Title"/>
+        text="Sub Title" />
         <Card 
         title="Photographs"
-        text="Sub Title"/>
+        text="Photo Location" />
         <Card 
         title="Ideas and Recommendations"
-        text="Let us build your web presence"/>
+        text="Let us build your web presence" />
       </div>
     </Layout>
   )
