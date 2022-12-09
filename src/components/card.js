@@ -3,7 +3,7 @@ import * as cardStyles from "./card.module.css"
 
 const Card = props => {
     return (
-        <div classsname={cardStyles.Card}>
+        <div className={cardStyles.Card}>
             <h3>{props.title}</h3>
             <p>{props.text}</p>
         </div>
