@@ -11,3 +11,11 @@
 .navWrapper a {
     color:rgba(255, 255, 255, 1)
 }
+.mainNav{
+    max-width: 800px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    align-items: center;
+    justify-items: center;
+}
