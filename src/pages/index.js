@@ -13,6 +13,9 @@ const Index = () => {
         <Card 
         title="Photographs"
         text="Sub Title"/>
+        <Card 
+        title="Ideas and Recommendations"
+        text="Let us build your web presence"/>
       </div>
     </Layout>
   )
