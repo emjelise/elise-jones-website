@@ -10,6 +10,9 @@ const Index = () => {
       <Card 
         title="Web Design"
         text="Sub Title"/>
+        <Card 
+        title="Photographs"
+        text="Sub Title"/>
       </div>
     </Layout>
 
