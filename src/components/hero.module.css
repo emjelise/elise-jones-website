@@ -16,13 +16,16 @@
     margin:0 auto;
     position: relative;
     padding:2em;
-    align-items: center;
-    justify-content: center;
+    
 }
 .heroInfo h1 {
     font-size:3em;
     margin-bottom: .5em;
+    align-items: center;
+    justify-content: center;
 }
 .heroInfo p {
     font-size: 1.2em;
+    align-items: center;
+    justify-content: center;
 }
