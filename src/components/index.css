@@ -16,8 +16,33 @@ body {
     grid-gap: 40px;
     justify-items: center;
 }
+.Cards h2 {
+    margin: 50px 20px;
+    font-size: 2em;
+    text-align: center;
+}
+.cardOne {
+    background-image: url(../images/image-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cardTwo{
+    background-image: url(../images/image-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cardThree {
+    background-image: url(../images/image-3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 @media (max-width: 1060px) {
     .cardGroup {
         grid-template-columns: repeat(2,1fr);
+    }
+}
+@media (max-width: 760px) {
+    .cardGroup {
+        grid-template-columns: repeat(1,1fr);
     }
 }

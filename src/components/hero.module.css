@@ -1,5 +1,5 @@
 .hero {
-    background-image: url("https://speckyboy.com/wp-content/uploads/2020/11/high-resolution-4k-desktop-wallpaper-38.jpg") ;
+    background-image: url(../images/image-1.jpg) ;
     height:60vh;
     background-size:cover;
     background-position: center;
