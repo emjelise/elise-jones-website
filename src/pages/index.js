@@ -7,7 +7,7 @@ const Index = () => {
     <Layout>
       <div className="Cards">
       <h2>How can we help</h2>
-      <Card 
+      <Card
         title="Web Design"
         text="Sub Title"/>
         <Card 
@@ -15,7 +15,6 @@ const Index = () => {
         text="Sub Title"/>
       </div>
     </Layout>
-
   )
 }
 
